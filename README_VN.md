@@ -10,7 +10,7 @@ Lưu ý: Hệ thống hoạt động tốt khi gương mặt cách camera/webcam
 
 ## Cách chạy
 Clone repo:
-`git clonehttps://github.com/hisus2000/Attendance-System.git `
+`git clone https://github.com/hisus2000/Attendance-System.git `
 
 Setup môi trường:
 `conda env create -f environment.yml`
