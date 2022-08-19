@@ -10,7 +10,7 @@ Note: The system works well when the face is < 40 cm from the camera/webcam.
 
 ## How to run
 Clone repo:
-`git clonehttps://github.com/hisus2000/Attendance-System.git `
+`git clone https://github.com/hisus2000/Attendance-System.git `
 
 Set up environment:
 `conda env create -f environment.yml`
