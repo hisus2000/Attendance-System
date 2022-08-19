@@ -12,7 +12,7 @@ Note: The system works well when the face is < 40 cm from the camera/webcam.
 Clone repo:
 `git clonehttps://github.com/hisus2000/Attendance-System.git `
 
-Setup environment:
+Set up environment:
 `conda env create -f environment.yml`
 
 Download YOLOv5:
