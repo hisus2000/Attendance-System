@@ -27,7 +27,7 @@ System deployment:
 `python main`
 
 ## System Accuracy:
-Evaluate face mask detection function (Assessment on dataset [Face Mask Dataset](https://drive.google.com/drive/folders/1xllrPRw1Kg1kxbx4dmBMNSahn97G_ZV9?usp=sharing))
+Evaluate face mask detection function (Assessed on dataset [Face Mask Dataset](https://drive.google.com/drive/folders/1xllrPRw1Kg1kxbx4dmBMNSahn97G_ZV9?usp=sharing))
 
 Precision Recall: 85% 79%
 
