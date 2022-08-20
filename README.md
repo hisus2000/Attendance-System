@@ -27,11 +27,11 @@ System deployment:
 `python main`
 
 ## System Accuracy:
-Face mask detection function (Assessment on dataset [Face Mask Dataset](https://drive.google.com/drive/folders/1xllrPRw1Kg1kxbx4dmBMNSahn97G_ZV9?usp=sharing))
+Evaluate face mask detection function (Assessment on dataset [Face Mask Dataset](https://drive.google.com/drive/folders/1xllrPRw1Kg1kxbx4dmBMNSahn97G_ZV9?usp=sharing))
 
 Precision Recall: 85% 79%
 
-Face recognition function (Assessed on LFW dataset):
+Evaluate face recognition function (Assessed on LFW dataset):
 
 Acc: 88.05%
 
