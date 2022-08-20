@@ -35,25 +35,25 @@ Evaluate face recognition function (Assessed on LFW dataset):
 
 Acc: 88.05%
 
-## Demo illustration of the system
+## Illustration of the system
 
-The system reminds the user to remove the mask
+The system reminds the user to remove the mask.
 
 ![FaceMask](https://github.com/hisus2000/Attendance-System/blob/main/pic/FaceMask.jpg)
 
-User gets attendance
+User is gotten attendance by the system.
 
 ![FaceNoMask](https://github.com/hisus2000/Attendance-System/blob/main/pic/FaceNoMask.jpg)
 
-The system reminds users to use their real face to take attendance
+The system reminds users to use their real face to take attendance.
 
 ![FakeFace](https://github.com/hisus2000/Attendance-System/blob/main/pic/FakeFace.jpg)
 
-The system displays the user's attendance information
+The system displays the user's attendance information.
 
 ![RegisterList](https://github.com/hisus2000/Attendance-System/blob/main/pic/RegisterList.jpg)
 
-The system displays the statistics of the number of late/absent employees
+The system displays the statistics of the number of late/absent employees.
 
 ![Report](https://github.com/hisus2000/Attendance-System/blob/main/pic/Report.jpg)
 
